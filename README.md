@@ -27,8 +27,8 @@ Aller à la page "Comment utiliser" pour plus d'informations
 
 ## Auteurs
 
-Francesco
+Francesco Giorcelli
 
-Ilyes
+Ilyes Belkhir
 
-Daniel
+Daniel Carriba
