@@ -1,6 +1,6 @@
 # Annutel - Annuaire téléphonique
 
-Annutel est un annuaire téléphonique en Python et HTML avec une base de données locale et avec un site web comme interface pour la manipuler
+Annutel est un annuaire téléphonique en Python avec une base de données locale et avec un site web comme interface pour la manipuler
 
 ## Requirements
 
